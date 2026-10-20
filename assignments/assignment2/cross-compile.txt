@@ -1,0 +1,3 @@
+COLLECT_GCC=aarch64-linux-gnu-gcc-13
+COLLECT_LTO_WRAPPER=/usr/libexec/gcc-cross/aarch64-linux-gnu/13/lto-wrapper
+/
